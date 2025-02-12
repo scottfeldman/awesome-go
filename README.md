@@ -1482,6 +1482,7 @@ _Libraries for programming devices of the IoT._
 - [huego](https://github.com/amimof/huego) - An extensive Philips Hue client library for Go.
 - [iot](https://github.com/vaelen/iot/) - IoT is a simple framework for implementing a Google IoT Core device.
 - [mainflux](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
+- [merliot](https://github.com/merliot/hub) - Privacy-focused device hub.
 - [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 - [rulego](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
 - [sensorbee](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
